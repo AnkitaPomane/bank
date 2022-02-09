@@ -126,7 +126,7 @@
 
       <footer class="text-center mt-5 py-2">
 
-        <p>A Project by <b> Aman Raj Gupta </b> <br> </p>
+        <p>A Project by <b> Ankita Chhagan Pomane </b> <br> </p>
 
       </footer>
 
